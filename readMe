@@ -1,2 +1,5 @@
 To install and create a react app:
-	install: npm install -g create react app
+	install & create: npx create-react-app {your-app-name}
+Install tachyons for amazing bootstrap features
+	install: npm install tachyons
+	in index.js: import 'tachyons'
